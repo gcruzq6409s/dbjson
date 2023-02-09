@@ -1,0 +1,107 @@
+[
+{
+	"Io":1,
+	"Type":"Rb1",
+	"Text":"Robot Numero 1",
+	"Ejecutado": false,
+	"Color": [{
+		"Nombre": "color1",
+		"R": "#011",
+		"G": "#001",
+		"B": "#010"
+	}
+	]
+},
+{
+	"Io":2,
+	"Type":"Rb2",
+	"Text":"Robot Numero 2",
+	"Ejecutado": true,
+	"Color": [{
+		"Nombre": "color2",
+		"R": "#022",
+		"G": "#002",
+		"B": "#020"
+	}
+	]
+},
+{
+	"Io":3,
+	"Type":"Rb3",
+	"Text":"Robot Numero 3",
+	"Ejecutado": false,
+	"Color": [{
+		"Nombre": "color3",
+		"R": "#033",
+		"G": "#003",
+		"B": "#030"
+	}
+	]
+},
+{
+	"Io":4,
+	"Type":"Rb4",
+	"Text":"Robot Numero 4",
+	"Ejecutado": true,
+	"Color": [{
+		"Nombre": "color4",
+		"R": "#044",
+		"G": "#004",
+		"B": "#040"
+	}
+	]
+},
+{
+	"Io":5,
+	"Type":"Rb5",
+	"Text":"Robot Numero 5",
+	"Ejecutado": false,
+	"Color": [{
+		"Nombre": "color5",
+		"R": "#055",
+		"G": "#005",
+		"B": "#050"
+	}
+	]
+},
+{
+	"Io":6,
+	"Type":"Rb6",
+	"Text":"Robot Numero 6",
+	"Ejecutado": true,
+	"Color": [{
+		"Nombre": "color6",
+		"R": "#066",
+		"G": "#006",
+		"B": "#060"
+	}
+	]
+},
+{
+	"Io":7,
+	"Type":"Rb7",
+	"Text":"Robot Numero 7",
+	"Ejecutado": false,
+	"Color": [{
+		"Nombre": "color7",
+		"R": "#077",
+		"G": "#007",
+		"B": "#070"
+	}
+	]
+},
+{
+	"Io":8,
+	"Type":"Rb8",
+	"Text":"Robot Numero 8",
+	"Ejecutado": true,
+	"Color": [{
+		"Nombre": "color8",
+		"R": "#088",
+		"G": "#008",
+		"B": "#080"
+	}
+	]
+}
+]
+	
